@@ -1,0 +1,26 @@
+{
+  "name": "server-side-leaflet",
+  "version": "0.0.1",
+  "description": "Leaflet coerced to run server-side with jsdom",
+  "main": "leaflet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rclark/server-side-leaflet.git"
+  },
+  "keywords": [
+    "leaflet",
+    "maps",
+    "geospatial"
+  ],
+  "author": "Vladamir Agafonkin, mostly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rclark/server-side-leaflet/issues"
+  },
+  "dependencies": {
+    "jsdom": "~0.8.4"
+  }
+}
